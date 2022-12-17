@@ -13,7 +13,7 @@ html, body {
     height: 100vh;
     z-index: 1;
     overflow: visible;
-    background: #fff url('loaders.gif') no-repeat center center;
+    background: #fff url('loadersss.gif') no-repeat center center;
 }
 
 h1 {
